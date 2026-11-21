@@ -18,6 +18,9 @@ This vault asks a design question: **What would our economic, civic, organizatio
 4. **Accountability:** [[evaluations/README|evaluation program]], [[governance/GOVERNANCE|governance]], and [[LICENSE|HDPL v0.1 public-review draft]].
 
 ### Navigation
+- [[PROJECT_STATUS|Current status and honest limitations]] · [[RELEASE_NOTES|Research edition notes]].
+- [[research/CST_TO_AI_TRACEABILITY|Doctrinal-to-engineering traceability]] · [[research/AI_PERSONHOOD_AND_MORAL_STATUS|AI personhood and moral status]].
+- [[essays/RESTORATION_NOT_DOMINATION|Restoration, Not Domination]] — the ethical imagination at the center of the project.
 - [[RESEARCH_INDEX|Research Index]] — works and provenance.
 - [[research/SOURCE_REGISTER|Source Register]] — what has actually been inspected.
 - [[research/CONCEPT_MAP|Concept Map]] — relationships between doctrines, author's proposals, and technical hypotheses.

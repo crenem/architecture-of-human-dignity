@@ -57,3 +57,9 @@ This is not a deployed or legally certified AI system. Each document identifies 
 - [Common-Good Enterprise Scorecard](business/COMMON_GOOD_SCORECARD.md) — multidimensional evidence, not an opaque moral ranking.
 - [Systems Map](diagrams/SYSTEMS_MAP.md) — Mermaid institutional and technical relationships.
 - [How to open this repository as an Obsidian vault](OBSIDIAN_SETUP.md).
+
+## Edition and verification
+
+**[Research Edition 0.1 status](PROJECT_STATUS.md)** · **[Release notes](RELEASE_NOTES.md)** · **[Doctrine-to-AI traceability](research/CST_TO_AI_TRACEABILITY.md)** · **[AI personhood working paper](research/AI_PERSONHOOD_AND_MORAL_STATUS.md)** · **[Restoration, Not Domination](essays/RESTORATION_NOT_DOMINATION.md)**.
+
+GitHub Actions validates the vault's internal links and basic evaluation tooling. It does **not** validate theological interpretation, legal enforceability, or the ethics of an unbuilt AI product.
