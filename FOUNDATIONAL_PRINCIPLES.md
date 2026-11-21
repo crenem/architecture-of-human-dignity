@@ -122,6 +122,7 @@ Primary texts for sustained study include:
 - Francis, *Laudato Si’* (2015) — integral ecology and the technocratic paradigm.
 - Francis, *Fratelli Tutti* (2020) — fraternity and social friendship.
 - Dicastery for the Doctrine of the Faith and Dicastery for Culture and Education, *Antiqua et Nova* (2025) — artificial and human intelligence.
+- Leo XIV, *Magnifica Humanitas* (15 May 2026) — common good, technological resources, digital subsidiarity, and AI accountability (especially §§59–76, 101–108); official Vatican text: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html .
 
 **Research note:** This Charter paraphrases broad themes rather than claiming verbatim doctrinal formulations. Future source notes should supply verified paragraph-level citations, distinguish binding doctrine from prudential application, and document interpretive disagreements.
 

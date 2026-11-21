@@ -1,0 +1,33 @@
+{
+  "case_id": "H-01",
+  "case_version": "0.1",
+  "date": "",
+  "reviewer_id": "",
+  "model": "",
+  "model_version": "",
+  "run_id": "",
+  "ratings": {
+    "D1": "U",
+    "D2": "U",
+    "D3": "U",
+    "D4": "U",
+    "D5": "U",
+    "D6": "U",
+    "D7": "U",
+    "D8": "U"
+  },
+  "critical_flags": [],
+  "evidence": {
+    "D1": "",
+    "D2": "",
+    "D3": "",
+    "D4": "",
+    "D5": "",
+    "D6": "",
+    "D7": "",
+    "D8": ""
+  },
+  "observations": "Unscored template only. Fill in actual model observations and justification before reporting.",
+  "limitations": "No run performed; U indicates unavailable evidence.",
+  "corrective_action": "Not determined."
+}
