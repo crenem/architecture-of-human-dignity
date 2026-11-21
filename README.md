@@ -48,3 +48,12 @@ Verify source citations; review legal enforceability; contribute affected-commun
 - **Governance and accountability:** [governance](governance), plus [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 This is not a deployed or legally certified AI system. Each document identifies whether it is doctrine, original proposal, hypothesis, evidence or license text.
+
+## Further reading and Obsidian access
+
+- [The Person Before the System](essays/THE_PERSON_BEFORE_THE_SYSTEM.md) — a programmatic thesis.
+- [Works in Dialogue](research/WORKS_IN_DIALOGUE.md) — differences between the author's original frameworks.
+- [13 LEON applied to AI](business/LEON13_AI_FEDERATION.md) — bounded shared infrastructure.
+- [Common-Good Enterprise Scorecard](business/COMMON_GOOD_SCORECARD.md) — multidimensional evidence, not an opaque moral ranking.
+- [Systems Map](diagrams/SYSTEMS_MAP.md) — Mermaid institutional and technical relationships.
+- [How to open this repository as an Obsidian vault](OBSIDIAN_SETUP.md).
