@@ -13,12 +13,14 @@ The project explores the intersection of Catholic social teaching, human dignity
 
 ## Begin here
 
+- [[00_START_HERE|Open the Obsidian knowledge map]] — the main entry point to the expanding vault.
+- [[PROJECT_AXIOMS|Project Axioms]] — working convictions and the distinction between ideals and testable claims.
 - [[FOUNDATIONAL_PRINCIPLES|Foundational Principles Charter]] — seven commitments, deliberation protocol and initial evaluation criteria.
 - [[RESEARCH_INDEX|Research Index]] — original source works, provenance, current review status, and cross-disciplinary links.
 - [[LICENSE|Human Dignity Public License (HDPL) v0.1]] — **experimental ethical-source license under public review**; not an OSI-recognized open-source license and not legal advice.
 - [[research/COMMON_GOOD_AI_CROSSWALK|Common Good / AI Crosswalk]] — working hypotheses for translating institutional principles into AI system design.
 
-This repository uses Markdown with Obsidian wikilinks. Standard GitHub links are included where practical.
+This repository uses Markdown with Obsidian wikilinks. In Obsidian, open this repository folder as a vault and start at **00_START_HERE.md**. On GitHub, the root Markdown index and folders provide navigation. The work includes original manuscripts summarized with permission to develop this project, but not reproduced in full.
 
 ## Intellectual boundaries
 
@@ -31,8 +33,18 @@ No original source manuscripts are reproduced in full here. Publication and righ
 
 ## Status
 
-**Early research edition.** The charter and HDPL are drafts. The repository does not claim Vatican approval, professional certification, tested AI safety guarantees, or legal validation of the proposed license.
+**Research edition 0.1 — substantial working draft.** The charter and HDPL are drafts. The repository does not claim Vatican approval, professional certification, tested AI safety guarantees, or legal validation of the proposed license.
 
 ## Contribution priorities
 
 Verify source citations; review legal enforceability; contribute affected-community perspectives; devise measurable, falsifiable evaluation criteria; examine conflicts between values rather than merely affirming them.
+
+## Research and practice
+
+- **Authorial source summaries:** [works](works) (economics, 13 LEON, Constitution, ethical business, trauma-informed leadership).
+- **Verified Catholic sources:** [sources](sources), including [*Magnifica Humanitas* (Leo XIV, 2026)](sources/MAGNIFICA_HUMANITAS_2026.md).
+- **Ethical AI reference architecture:** [ai](ai), with numbered requirements and a decision protocol.
+- **Adversarial cases and evaluation methodology:** [cases](cases) and [evaluations](evaluations).
+- **Governance and accountability:** [governance](governance), plus [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+This is not a deployed or legally certified AI system. Each document identifies whether it is doctrine, original proposal, hypothesis, evidence or license text.

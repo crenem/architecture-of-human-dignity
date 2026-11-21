@@ -16,7 +16,7 @@ This index preserves the separate identities of original works by **Jason Seaux*
 | **The Constitution of the Common Good** | Consolidated constitutional draft inspected (21 pages, 31 October 2026); companion book draft inspected (88 pages) | Rights, pluralism, six-branch institutional design, restorative justice, freedom from domination | AI constitutionalism, distributed oversight, contestability |
 | **The Public Good / Investing in the Public Good** | Original text not yet verified in this repository review | Ethics assessment and public accountability (provisional topic only) | Independent model auditing; claims require source review |
 | **Lévinasian business ethics writings** | Original text not yet verified in this repository review | Responsibility to the Other (provisional topic only) | Encounter-centered design, non-reduction of persons |
-| **Magnifica Humanitas** | Source status and provenance require verification | Proposed human dignity and AI themes | Do **not** treat as an authentic papal encyclical or authoritative Church document without independent verification |
+| **Magnifica Humanitas** | **Official papal encyclical verified**: Pope Leo XIV, 15 May 2026 (Vatican source) | Common good, digital goods, subsidiarity and responsible AI | Primary doctrinal source, **not the author's own work** |
 
 ## Source-based synopsis
 
@@ -41,8 +41,22 @@ The 31 October 2026 consolidated constitutional draft proposes **32 articles acr
 - Source identifiers for the research corpus: `An_Economy_for_the_Common_Good.docx`; `13_LEON_Founding_Prospectus.docx`; `Constitution_of_the_Common_Good_2026.pdf`; `The_Constitution_of_the_Common_Good_Book_Draft.docx`.
 - The original works retain separate authorship and publication rights; no repository license should be presumed to cover the full manuscripts until publication is explicitly authorized.
 - Date/version distinctions matter: an October 2026 constitutional proposal and its accompanying discussion book are related but distinct works.
-- **Pending:** systematic source verification of The Public Good and related writings; authoritative source citations with paragraph numbers for Catholic documents; original source review and status check for Magnifica Humanitas.
+- **Pending:** original-manuscript verification of The Public Good and related writings; external peer review of doctrinal interpretations and technical applications. **Completed:** primary-source verification of Pope Leo XIV's *Magnifica Humanitas* (15 May 2026), particularly §§59–76 and §§101–108; see [[sources/MAGNIFICA_HUMANITAS_2026|source note]].
 
 ## Working bibliography of Catholic sources
 
 Leo XIII, *Rerum Novarum* (1891); Pius XI, *Quadragesimo Anno* (1931); John XXIII, *Pacem in Terris* (1963); Second Vatican Council, *Gaudium et Spes* (1965); Pontifical Council for Justice and Peace, *Compendium of the Social Doctrine of the Church* (2004); Benedict XVI, *Caritas in Veritate* (2009); Francis, *Laudato Si’* (2015) and *Fratelli Tutti* (2020); Dicastery for the Doctrine of the Faith and Dicastery for Culture and Education, *Antiqua et Nova* (2025). These citations are reading leads; paragraph-level verification remains to be done.
+
+## New source-grounded notes
+
+- [[works/AN_ECONOMY_FOR_THE_COMMON_GOOD|Economy manuscript]] — central propositions and economic architecture.
+- [[works/THIRTEEN_LEON|13 LEON prospectus]] — thirteen founding commitments, federation and shared institutions.
+- [[works/CONSTITUTION_OF_THE_COMMON_GOOD|Constitution]] — civil liberties, the six branches and due process.
+- [[works/ETHICS_OF_EFFICIENCY|The Ethics of Efficiency]] — author's original seven-slide keynote, inspected.
+- [[works/TRAUMA_INFORMED_LEADERSHIP|Trauma-informed leadership]] — a working synthesis of the author's applied ethics.
+- [[works/UNIVERSAL_DESTINATION_OF_INTELLIGENCE|Universal Destination of Intelligence]] — proposed extension, not independent doctrine.
+- [[works/UBUNTU_COMMONS|Ubuntu Commons]] and [[works/PLANETARY_EUDAIMONIC_INTERDEPENDENCE|Planetary Eudaimonic Interdependence]] — conversation-derived hypotheses, pending original manuscript verification.
+- [[research/SOURCE_REGISTER|Source Register]] — exact verification and publication boundaries.
+
+### Essential correction
+An earlier index marked *Magnifica Humanitas* as unverified. It is demonstrably available as a **15 May 2026** encyclical of Pope Leo XIV on the official Vatican website: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html . This correction supersedes the outdated note; no project authorial claim is made over the encyclical.
